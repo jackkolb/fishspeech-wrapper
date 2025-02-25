@@ -1,3 +1,3 @@
 # FishSpeech Wrapper
 
-Wrapper for FishSpeek-1.5
+Wrapper for FishSpeech-1.5
