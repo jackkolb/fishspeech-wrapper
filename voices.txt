@@ -1,0 +1,26 @@
+Male:
+869886: college-aged, excited, youthful, energetic, fit, adventurous, high-pitched
+498773: middle-aged, excited, energetic, 30's
+168099: Soft spoken, deep voice, 50's, pensive tone
+909712: 40's, moderate voice, good energy but not super, general purpose
+254064: college-ages, excited, youthful, energetic, fit, adventurous, high-pitched (more than 869886)
+5272111: adult, slow, quiet, thoughtful, 30's, smooth, lots of pauses so might want to edit
+1294568: adult, good pace, smooth, good pronunciation, solid choice
+3385323: young adult, quick pace, smooth, moderate pitch, general purpose
+4519724: adult, higher pitched but not annoying, general purpose but has some awkward pauses so edit or use briefly
+5629626: sounds super quiet and tired, could use briefly, bit inconsistent.
+7655132: adult, generic, quick pace, reasonably good pronunciation, general purpose but probably best brief
+1005685: young adult, energetic, nice to listen too, moderate pitch, has some awkward intonations so use briefly, good for a student
+5114708: young adult, energetic, kind of annoying but good pace so use briefly.
+3013710: adult, OK tone, moderate pitch, good pace.
+8824903: adult, direct, pauses are a bit off, some wrong intonations, could use briefly.
+4661115: young adult, good pace, kinda robotic so use briefly
+
+Female:
+292019: Laughing, long-winded, thoughtful, high-pitched, bit monotone
+297888: Speaks fast, good pronunciation, 30's, general purpose
+1962183: Sweet, 20's, student, energetic, general purpose
+6322120: Generic, little robotic, could work for a small bit
+2056885: Moderate pace and tone, kind, 40's, could work for a professor
+475049: Quick pace, moderate tone, kind, 40's, little robotic to use briefly
+1261811: High pitched, young, speaks fast, kind of annoying but good intonations
