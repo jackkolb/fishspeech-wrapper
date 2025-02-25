@@ -1,0 +1,1 @@
+This is a wrapper for the fish speech model, it works by sending a request to the demo server given text and a seed.
